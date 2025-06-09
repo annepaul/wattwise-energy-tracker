@@ -1,0 +1,30 @@
+# Node modules
+**/node_modules/
+
+# Environment variables
+**/.env
+
+# Build output
+**/dist/
+**/build/
+
+# Logs
+*.log
+npm-debug.log*
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Test coverage
+coverage/
+
+# IDE configs
+.vscode/
+.idea/
+
+# Optional: ignore test output
+*.test.js
+
+# Ignore lock files if you want consistency via package.json only (optional)
+# package-lock.json
